@@ -1,0 +1,106 @@
+
+
+h1{
+    color: red;
+}
+
+hr{
+    height:10px;
+    
+    border-width:20;color:black;
+    background-color:lightgreen
+}
+
+
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.AboutHeader{
+    background-color: rgb(19, 64, 100);
+    display:flex;
+    justify-content: center;
+    
+    
+}
+
+.ActHeader{
+    background-color:peachpuff;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.ExpHeader{
+    background-color: palegreen;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.EventsHeader{
+    background-color:skyblue ;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.menu{
+    background-color:yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    
+    background-color: tomato;
+    display: flex; 
+    justify-content: center;
+    
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+.AboutPara{
+
+    background-color: springgreen;
+    display: flexbox;
+    justify-content:stretch;
+}
+
+.ActPara{
+
+    background-color: khaki;
+    display: flexbox;
+    justify-content:stretch;
+}
+
+.EventsPara{
+
+    background-color: lightgrey;
+    display: flexbox;
+    justify-content:stretch;
+}
+
+.ExpPara{
+
+    background-color: lightcyan;
+    display: flexbox;
+    justify-content:stretch;
+}
+
